@@ -1,4 +1,5 @@
 import PropTypes from "prop-types";
+import { CiBookmark } from "react-icons/ci";
 
 const Blog = ({ blog }) => {
     // console.log(blog);
@@ -28,8 +29,11 @@ const Blog = ({ blog }) => {
                     </div>
                 </div>
 
-                <div>
+                <div className="flex items-center gap-2">
                     <span>{reading_time} min read</span>
+                    <button className="text-2xl">
+                        <CiBookmark />
+                    </button>
                 </div>
             </div>
 
