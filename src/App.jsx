@@ -1,8 +1,8 @@
-import { useState } from "react";
+// import { useState } from "react";
 
 import "./App.css";
+import Blogs from "./components/Blogs/Blogs";
 import Header from "./components/Header/Header";
-import Blogs from "./components/Header/Blogs/Blogs";
 
 function App() {
     return (
