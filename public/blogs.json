@@ -4,18 +4,18 @@
         "cover": "https://i.ibb.co.com/SvQn9j3/1721190111425.jpg",
         "title": "Exploring the World of AI",
         "author": "Alice Johnson",
-        "author_img": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39",
-        "posted_date": "2024-09-10",
+        "author_img": "https://i.ibb.co.com/p2vzj5t/woman-avatar-character-icon-free-vector.jpg",
+        "posted_date": "Octobar 09, 2024",
         "reading_time": "8",
         "hashtags": ["#AI", "#MachineLearning", "#Technology"]
     },
     {
         "id": 2,
-        "cover": "https://i.ibb.co.com/BcY0vMY/30-Days-Of-Java-Script-1.webp",
+        "cover": "https://i.ibb.co.com/qD7T5tn/1691597282744.jpg",
         "title": "Mastering JavaScript in 30 Days",
         "author": "John Smith",
-        "author_img": "https://images.unsplash.com/photo-1527980965255-d3b416303d12",
-        "posted_date": "2024-08-25",
+        "author_img": "https://i.ibb.co.com/42SXZLf/boy1.png",
+        "posted_date": "August 25, 2024",
         "reading_time": "10",
         "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"]
     },
@@ -24,8 +24,8 @@
         "cover": "https://i.ibb.co.com/jDZjdVN/1708765770846.jpg",
         "title": "A Guide to Clean Code",
         "author": "Emily Davis",
-        "author_img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde",
-        "posted_date": "2024-07-15",
+        "author_img": "https://i.ibb.co.com/zZg2pqz/girl1.jpg",
+        "posted_date": "July 15, 2024",
         "reading_time": "12",
         "hashtags": ["#Coding", "#BestPractices", "#CleanCode"]
     },
@@ -34,8 +34,8 @@
         "cover": "https://i.ibb.co.com/CwzF7JR/1582311270253.png",
         "title": "Introduction to Quantum Computing",
         "author": "Michael Brown",
-        "author_img": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
-        "posted_date": "2024-06-05",
+        "author_img": "https://i.ibb.co.com/MRvQMK8/girl-avatar-260nw-1459862774.webp",
+        "posted_date": "June 05, 2024",
         "reading_time": "15",
         "hashtags": ["#QuantumComputing", "#FutureTech", "#Computing"]
     },
@@ -44,8 +44,8 @@
         "cover": "https://i.ibb.co.com/d5bpbwv/Build-Your-First-Mobile-Application-With-Steps-by-step-Guide.jpg",
         "title": "Building Your First Mobile App",
         "author": "Sophia Williams",
-        "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
-        "posted_date": "2024-05-22",
+        "author_img": "https://i.ibb.co.com/NjBJkqZ/female-user-profile-avatar-is-woman-character-screen-saver-with-emotions-505620-617.jpg",
+        "posted_date": "May 22, 2024",
         "reading_time": "9",
         "hashtags": ["#MobileApp", "#AppDevelopment", "#Coding"]
     }
