@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "cover": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d",
+        "cover": "https://i.ibb.co.com/SvQn9j3/1721190111425.jpg",
         "title": "Exploring the World of AI",
         "author": "Alice Johnson",
         "author_img": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39",
@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "cover": "https://images.unsplash.com/photo-1517430816045-df4b7de6e8c0",
+        "cover": "https://i.ibb.co.com/BcY0vMY/30-Days-Of-Java-Script-1.webp",
         "title": "Mastering JavaScript in 30 Days",
         "author": "John Smith",
         "author_img": "https://images.unsplash.com/photo-1527980965255-d3b416303d12",
@@ -21,7 +21,7 @@
     },
     {
         "id": 3,
-        "cover": "https://images.unsplash.com/photo-1517511620798-cec17d428bc0",
+        "cover": "https://i.ibb.co.com/jDZjdVN/1708765770846.jpg",
         "title": "A Guide to Clean Code",
         "author": "Emily Davis",
         "author_img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde",
@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "cover": "https://images.unsplash.com/photo-1526378726420-82a501336f57",
+        "cover": "https://i.ibb.co.com/CwzF7JR/1582311270253.png",
         "title": "Introduction to Quantum Computing",
         "author": "Michael Brown",
         "author_img": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
@@ -41,7 +41,7 @@
     },
     {
         "id": 5,
-        "cover": "https://images.unsplash.com/photo-1557683316-973673baf926",
+        "cover": "https://i.ibb.co.com/d5bpbwv/Build-Your-First-Mobile-Application-With-Steps-by-step-Guide.jpg",
         "title": "Building Your First Mobile App",
         "author": "Sophia Williams",
         "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
