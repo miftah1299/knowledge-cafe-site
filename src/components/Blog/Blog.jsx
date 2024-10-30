@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
-import { CiBookmark } from "react-icons/ci";
+import { FaRegBookmark } from "react-icons/fa6";
 
-const Blog = ({ blog }) => {
+const Blog = ({ blog, handleBookmark }) => {
     // console.log(blog);
     const {
         title,
@@ -29,10 +29,10 @@ const Blog = ({ blog }) => {
                     </div>
                 </div>
 
-                <div className="flex items-center gap-2">
+                <div className="flex items-center gap-2 text-zinc-500">
                     <span>{reading_time} min read</span>
-                    <button className="text-2xl">
-                        <CiBookmark />
+                    <button onClick={() => handleBookmark(blog)}>
+                        <FaRegBookmark />
                     </button>
                 </div>
             </div>
@@ -40,7 +40,7 @@ const Blog = ({ blog }) => {
             <h2 className="text-4xl">{title}</h2>
             <p>
                 {hashtags.map((hashtag, index) => (
-                    <span key={index} className="text-gray-500">
+                    <span key={index} className="text-zinc-500">
                         <a href="">{hashtag} </a>
                     </span>
                 ))}
@@ -53,6 +53,7 @@ const Blog = ({ blog }) => {
 // Define the prop types for the component
 Blog.propTypes = {
     blog: PropTypes.object.isRequired,
+    handleBookmark: PropTypes.func.isRequired,
 };
 
 export default Blog;
