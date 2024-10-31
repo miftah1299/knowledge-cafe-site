@@ -27,7 +27,7 @@ const Blogs = ({ handleBookmark, handleMarkAsRead }) => {
     );
 };
 
-Blogs.prototypes = {
+Blogs.propTypes = {
     handleBookmark: PropTypes.func,
     handleMarkAsRead: PropTypes.func,
 };
