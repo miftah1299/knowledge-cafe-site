@@ -9,7 +9,7 @@ const Bookmark = ({ bookmark }) => {
     );
 };
 
-Bookmark.prototype = {
+Bookmark.propTypes = {
     bookmark: PropTypes.object.isRequired,
 };
 

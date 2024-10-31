@@ -4,6 +4,7 @@ import { FaRegBookmark } from "react-icons/fa6";
 const Blog = ({ blog, handleBookmark, handleMarkAsRead }) => {
     // console.log(blog);
     const {
+        id,
         title,
         cover,
         author,
@@ -47,7 +48,7 @@ const Blog = ({ blog, handleBookmark, handleMarkAsRead }) => {
             </p>
 
             <button
-                onClick={() => handleMarkAsRead(reading_time)}
+                onClick={() => handleMarkAsRead(id, reading_time)}
                 className="text-blue-700 underline"
             >
                 Mark as read
