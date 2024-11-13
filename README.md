@@ -1,8 +1,24 @@
-# React + Vite
+# Knowledge Cafe Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React-based project for a Knowledge Cafe site. The site features a collection of blogs, bookmarks, and a header component.
 
-Currently, two official plugins are available:
+### React Fundamental Concepts Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-   **Components**: The project is structured using functional components.
+-   **State Management**: State is managed using the `useState` hook.
+-   **Props**: Data is passed between components using props.
+-   **Event Handling**: Event handlers are used to manage user interactions.
+-   **Conditional Rendering**: Components are conditionally rendered based on the state.
+
+### Data Handling and Management
+
+-   **Context API**: Used for managing global state across the application.
+-   **Local Storage**: Used for persisting data such as bookmarks and reading time.
+
+## Features
+
+-   **Blog Listing**: Displays a list of blogs fetched from a JSON file.
+-   **Bookmarking**: Allows users to bookmark their favorite blogs.
+-   **Reading Time Tracking**: Tracks and displays the total reading time for bookmarked blogs.
+-   **Responsive Design**: The site is responsive and works well on different screen sizes.
+-   **User-Friendly Interface**: Simple and intuitive user interface for easy navigation.
