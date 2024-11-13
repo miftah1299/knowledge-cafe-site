@@ -2,6 +2,10 @@
 
 This is a React-based project for a Knowledge Cafe site. The site features a collection of blogs, bookmarks, and a header component.
 
+## Live Demo
+
+Check out the live site [Knowledge Cafe Site](https://knowledge-cafe-site-react.surge.sh).
+
 ### React Fundamental Concepts Used
 
 -   **Components**: The project is structured using functional components.
